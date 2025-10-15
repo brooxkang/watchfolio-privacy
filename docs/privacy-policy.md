@@ -153,7 +153,7 @@ The app may contain links to third-party websites or services (e.g., watch brand
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
 **Email**: brooxkang@gmail.com
-**GitHub**: https://github.com/brooxkang/WatchFolio
+**GitHub Issues**: https://github.com/brooxkang/watchfolio-privacy/issues
 
 ---
 

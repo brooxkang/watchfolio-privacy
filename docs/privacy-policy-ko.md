@@ -153,7 +153,7 @@ WatchFolio는 글로벌 사용을 위해 설계되었습니다. 귀하의 위치
 본 개인정보 처리방침 또는 데이터 처리 관행에 대한 질문, 우려 사항 또는 요청이 있으시면 다음으로 연락해 주세요:
 
 **이메일**: brooxkang@gmail.com
-**GitHub**: https://github.com/brooxkang/WatchFolio
+**GitHub 이슈**: https://github.com/brooxkang/watchfolio-privacy/issues
 
 ---
 
